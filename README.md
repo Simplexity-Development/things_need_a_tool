@@ -1,3 +1,6 @@
+> # This repository has been merged into [PurpurPacks](https://github.com/PurpurMC/PurpurPacks) as seperate modules, any further development on this datapack will be done there
+> [PurpurPacks modrinth link](https://modrinth.com/user/PurpurMC/datapacks)
+
 # Things need a tool
 ![image](https://raw.githubusercontent.com/ADHDMC/Things-need-a-tool/master/pack.png)
 
